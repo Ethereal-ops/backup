@@ -28,7 +28,7 @@ const Build = () => {
               </div>
               <div>
                 <p className="text-[18px] font-[400] text-customGray-main">
-                  Unlike Palpatine, we love democracy. That’s why our platform
+                  Unlike Palpatine, we love democracy. That&apos;s why our platform
                   is designed to be governed by you. Want leveraged exposure on
                   your favorite crypto assets? Get enough people from the DApp
                   Mainnet community to back you and the protocol will

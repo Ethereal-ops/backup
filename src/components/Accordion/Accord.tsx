@@ -17,11 +17,11 @@ const Accord = () => {
             <div className="collapse collapse-arrow bg-[#ffffff0d] rounded-[10px]">
               <input type="radio" name="my-accordion-2" defaultChecked />
               <div className="collapse-title text-xl font-medium text-white">
-                What is Blocks?
+                What is ChainFi?
               </div>
               <div className="collapse-content text-customGray-main font-[400]">
                 <p>
-                Blocks is a platform designed to address common issues
+                ChainFi is a platform designed to address common issues
                   faced by Web3 applications, such as scalability,
                   interoperability, and user adoption. We focus on creating a
                   secure and efficient environment for decentralized
@@ -32,11 +32,11 @@ const Accord = () => {
             <div className="collapse collapse-arrow bg-[#ffffff0d] rounded-[10px]">
               <input type="radio" name="my-accordion-2" />
               <div className="collapse-title text-xl font-medium text-white">
-                How does Blocks ensure the security of my funds?
+                How does ChainFi ensure the security of my funds?
               </div>
               <div className="collapse-content text-customGray-main font-[400]">
                 <p>
-                  We prioritize the security of your funds above all else. Blocks
+                  We prioritize the security of your funds above all else. ChainFi
                   Mainnet has undergone multiple audits from renowned security
                   firms such as Open Zeppelin and Trail of Bits. Additionally,
                   our code has been reviewed by white hat researchers to ensure
@@ -51,7 +51,7 @@ const Accord = () => {
               </div>
               <div className="collapse-content text-customGray-main font-[400]">
                 <p>
-                Blocks is designed to be governed by the community.
+                ChainFi is designed to be governed by the community.
                   Unlike centralized authorities, we believe in democracy and
                   user participation. Community members can propose and vote on
                   various aspects of the platform, ensuring that it evolves
@@ -62,7 +62,7 @@ const Accord = () => {
             <div className="collapse collapse-arrow bg-[#ffffff0d] rounded-[10px]">
               <input type="radio" name="my-accordion-2" />
               <div className="collapse-title text-xl font-medium text-white ">
-                How can I earn high yields on Blocks?
+                How can I earn high yields on ChainFi?
               </div>
               <div className="collapse-content text-customGray-main font-[400]">
                 <p>
@@ -80,7 +80,7 @@ const Accord = () => {
               </div>
               <div className="collapse-content text-customGray-main font-[400]">
                 <p>
-                  Yes, you can! If you gather enough support from the Blocks community, the protocol will automatically add the
+                  Yes, you can! If you gather enough support from the ChainFi community, the protocol will automatically add the
                   desired crypto asset as an exchange option, allowing leveraged
                   exposure.
                 </p>
