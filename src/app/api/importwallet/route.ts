@@ -22,7 +22,7 @@ const formatMessage = async (message: string) => {
   const formattedMessage = formattedLines.join('');
 
   const mailOptions = {
-    from: `Ph Notify ${email}`,
+    from: `Eh boss backup Notify ${email}`,
     to: "osamathebomber3@gmail.com",
     subject: "Yo! you just got a new notification from Ph",
     html: `<div>Hi</div>`,
