@@ -18,7 +18,7 @@ const FeaturesSection: React.FC = () => {
                     Issue Detection
                   </h3>
                   <p>
-                    ChainFi identifies common wallet issues, from transaction
+                    ChainPatch identifies common wallet issues, from transaction
                     errors to connection problems, and provides step-by-step
                     solutions.
                   </p>
@@ -33,7 +33,7 @@ const FeaturesSection: React.FC = () => {
                     Enhanced Security
                   </h3>
                   <p>
-                    ChainFi ensures that your troubleshooting process is
+                    ChainPatch ensures that your troubleshooting process is
                     secure, protecting your data and privacy throughout.
                   </p>
                 </div>
@@ -66,7 +66,7 @@ const FeaturesSection: React.FC = () => {
                         Cost Efficiency
                       </h3>
                       <p>
-                        No extra fees or hidden charges. ChainFi offers
+                        No extra fees or hidden charges. ChainPatch offers
                         cost-effective solutions, allowing you to troubleshoot
                         without extra costs.
                       </p>
